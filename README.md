@@ -2,4 +2,4 @@
 
 Test text for test the changes in the GitHub
 
-Another test
+Another change for conflict
